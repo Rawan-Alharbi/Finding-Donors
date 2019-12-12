@@ -34,7 +34,7 @@ CharityML is a fictitious charity organization located in the heart of Silicon V
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following command:
+In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run the following command:
 
 ```bash
 jupyter notebook finding_donors.ipynb

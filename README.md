@@ -27,10 +27,10 @@ CharityML is a fictitious charity organization located in the heart of Silicon V
 
 
 ### File Descriptions
-- census.csv contains the census data this project is applied onto, and it's described in details in the data section.
-- finding_donors.ipynb is the Jupyter notebook that contains the project analysis on the data.
-- report.html is the finding_donors notebook saved as an html file.
-- visuals.py contains helper functions to use in the analysis process.
+- `census.csv` contains the census data this project is applied onto, and it's described in details in the data section.
+- `finding_donors.ipynb` is the Jupyter notebook that contains the project analysis on the data.
+- `report.html` is the finding_donors notebook saved as an html file.
+- `visuals.py` contains helper functions to use in the analysis process.
 
 ### Run
 

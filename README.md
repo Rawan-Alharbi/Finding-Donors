@@ -1,6 +1,13 @@
 # Finding Donors for CharityML
 Data Scientist Nanodegree (Supervised Learning). 
 
+### Table of Contents
+1. [Installation](https://github.com/rawan231/Finding-Donors#Installation)
+2. [Project Introduction](https://github.com/rawan231/Finding-Donors#Project-Introduction)
+3. [File Descriptions](https://github.com/rawan231/Finding-Donors#File-Descriptions)
+4. [Run](https://github.com/rawan231/Finding-Donors#Run)
+5. [Data](https://github.com/rawan231/Finding-Donors#Data)
+6. [License](https://github.com/rawan231/Finding-Donors#License)
 
 ### Installation
 
